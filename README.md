@@ -71,7 +71,11 @@ Play against another player and enjoy the classic game in your browser.
 
 ## 🖼️ Screenshots
 
-(Add your game screenshots here)
+<img width="915" height="711" alt="Screenshot 2025-08-17 220857" src="https://github.com/user-attachments/assets/510dd707-bc68-4362-a94d-309ed0115285" />
+
+<img width="957" height="681" alt="Screenshot 2025-08-17 220906" src="https://github.com/user-attachments/assets/e2caefe5-72ef-4737-b362-0fe39ff6f74a" />
+
+<img width="532" height="351" alt="Screenshot 2025-08-17 220916" src="https://github.com/user-attachments/assets/7ce9fdca-98df-4c0f-8edd-61c74f66b284" />
 
 ------------------------------------------------------------------------
 
